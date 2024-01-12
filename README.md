@@ -1,5 +1,6 @@
 # hello-world
 hello world lab for web game development
+
 I have 2 dogs, a german shepard and a miniature schnauzer.
 
 Make sure you completed the following items before you submit the assignment on Canvas:
